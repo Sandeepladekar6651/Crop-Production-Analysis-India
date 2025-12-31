@@ -25,6 +25,7 @@ This project presents an interactive Power BI dashboard analyzing crop productio
 
 ## 📁 Project Structure
 
+```text
 Crop-Production-Analysis-India/
 ├── Dashboard/
 │   └── Crop_Production_Analysis_India.pbix
@@ -34,6 +35,7 @@ Crop-Production-Analysis-India/
 ├── Data/
 │   └── crop_production.csv
 ├── README.md
+
 
 ## 🔍 Key Insights
 - Kerala is the highest crop-producing state
@@ -53,4 +55,5 @@ Crop-Production-Analysis-India/
 
 ### Detailed Analysis
 ![Detailed Analysis](Images/detailed_analysis.png)
+
 

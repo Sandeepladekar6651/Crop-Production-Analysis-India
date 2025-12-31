@@ -24,14 +24,15 @@ This project presents an interactive Power BI dashboard analyzing crop productio
 - Custom report-page tooltips implemented to explain metric units
 
 ## 📁 Project Structure
+
 Crop-Production-Analysis-India/
 ├── Dashboard/
-│ └── Crop_Production_Analysis_India.pbix
+│   └── Crop_Production_Analysis_India.pbix
 ├── Images/
-│ ├── overview.png
-│ └── detailed_analysis.png
+│   ├── overview.png
+│   └── detailed_analysis.png
 ├── Data/
-│ └── crop_production_data.csv
+│   └── crop_production.csv
 ├── README.md
 
 ## 🔍 Key Insights
@@ -52,3 +53,4 @@ Crop-Production-Analysis-India/
 
 ### Detailed Analysis
 ![Detailed Analysis](Images/detailed_analysis.png)
+
